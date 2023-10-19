@@ -7,24 +7,24 @@ C program that calculates the percentage of text 1 that can be created using onl
 + Example1: 
 
 input:
- text 1: abc def 
- text 2: a c 
+ text 1: abc def <br>
+ text 2: a c <br>
 
 output: 33.33%
 
 + Example2: 
 
 input:
- text 1: abcdef
- text 2: hijklmn
+ text 1: abcdef <br>
+ text 2: hijklmn <br>
 
 output: 0.0%
 
 + Example3:
 
 input:
- text 1: aaabbb
- text 2: abcdef
+ text 1: aaabbb <br>
+ text 2: abcdef <br>
 
 output: 100.0%
 
