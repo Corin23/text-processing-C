@@ -2,7 +2,7 @@
 
 C program that calculates the percentage of text 1 that can be created using only characters from text 2.
 
-** 
+***
 
 + Example1: 
 
@@ -28,7 +28,7 @@ input:
 
 output: 100.0%
 
-**
+***
 
 __This program uses the text1.txt and text2.txt as input.__
 
